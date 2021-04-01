@@ -1,0 +1,74 @@
+body
+{ margin: 0;
+ padding: 0;
+  background-image: linear-gradient(125deg,
+#2c3e50,#27ae60,#2980b9,#e74c3c,#8e44ad);
+   animation: bganimation 10s infinite;
+   background-size: 400% 400%;
+   font-family: sans-serif;
+  }
+  
+  @keyframes bganimation
+{
+    0%
+    {
+        background-position: 0% 50%;
+    }
+    
+    50%
+    {
+        background-position: 100% 50%;
+    }
+    
+    100%
+    {
+        background-position: 0% 50%;
+    }
+}
+
+.A 
+{
+    color: #fff;
+    font-family: Monospace;
+    font-size: 28px;
+}
+
+.Aa
+{
+    color: #fff;
+    font-size: 10px;
+}
+
+.bbb
+{
+    color: #fff;
+    font-size: 17px;
+}
+
+.aa
+{
+    color: #fff;
+    right: 20px;
+    font-size: 10px;
+    text-decoration: none;
+    background: #14779f;
+    box-shadow: 0px 0px #14779f;
+    padding-top: 7px ! important;
+    padding-right: 16px ! important;
+    padding-left: 16px ! important;
+    padding-bottom: 7px ! important;
+    border-radius: 10px;
+}
+
+
+
+.bb
+{
+    color: #70e1f5;
+    font-family: sans-serif;
+    font-size: 9px;
+    text-decoration: none;
+    padding: 2px 9px;
+    border-radius: 1px;
+}
+
