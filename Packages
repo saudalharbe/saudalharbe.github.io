@@ -3,51 +3,42 @@ Architecture: iphoneos-arm
 Version: 0.2
 Section: Entertainment
 Maintainer: S3UD dx_2e
-Depends: 
 Filename: debs//com.saudalharbe.moonlight_0.2_iphoneos-arm.deb
 Size: 5551546
 MD5sum: 61089b09d130e79ab0a91ba661ae3648
 SHA1: dfd05f9573fa1ea54fcd0704b6cb5b576ef964d9
 SHA256: 8c20026bd2b79cbc28f140ecdbc463653e944a5f9d5d23f0c8877f81c5feecd2
 Homepage: https://youtube.com/channel/UCoJfejcXCOYuf0zjN0HWbyA
-Description: 
 Name: Moonlight
 Author: S3UD dx_2e
-Depiction:
 
 Package: com.saudalharbe.moonlightold
 Architecture: iphoneos-arm 
 Version: 0.1
 Section: Entertainment
 Maintainer: S3UD dx_2e
-Depends: 
 Filename: debs//com.saudalharbe.moonlightold_0.1_iphoneos-arm.deb
 Size: 4003350
 MD5sum: 2dcb7555b938f56970bbbb8c09ba7525
 SHA1: a78f2ca992204a76e7d179e8956e5a87a7e5f71b
 SHA256: 84fa26f4e09847bc0e3fc917aad38a0dc87523b7ba0a011b9992dfe974c8eb46
 Homepage: https://youtube.com/channel/UCoJfejcXCOYuf0zjN0HWbyA
-Description: 
 Name: Moonlight old
 Author: S3UD dx_2e
-Depiction:
 
 Package: com.saudalharbe.lumafx
 Architecture: iphoneos-arm 
 Version: 0.1
 Section: Entertainment
 Maintainer: S3UD dx_2e
-Depends: 
 Filename: debs//com.saudalharbe.lumafx_0.1_iphoneos-arm.deb
 Size: 22882798
 MD5sum: 94e20f6589510daed0e8300b37dcbc94
 SHA1: abef7585e786dddd08181711df3705ce676c305d
 SHA256: 0b77d02c08b65c57abd0916c255024f40a3c7ea6838a727e2c48b911018f31b0
 Homepage: https://youtube.com/channel/UCoJfejcXCOYuf0zjN0HWbyA
-Description: 
 Name: LumaFX
 Author: S3UD dx_2e
-Depiction:
 
 Package: dev.midn1ght.copylog
 Architecture: iphoneos-arm 
@@ -61,10 +52,8 @@ MD5sum: 1d86d14ec3d679b018f66fd3d26dc3b0
 SHA1: 5afa35a687896f2c020852494bd04744114dfa4d
 SHA256: 712af870386390e0bec1129623e824d2150a3415f71ad87997af432224781193
 Homepage: https://youtube.com/channel/UCoJfejcXCOYuf0zjN0HWbyA
-Description: 
 Name: CopyLog
 Author: S3UD dx_2e
-Depiction:
 
 Package: com.saudalharbe.WASend
 Architecture: iphoneos-arm 
@@ -78,8 +67,5 @@ MD5sum: a2750b4f07b95fb3fb84c2fb70bcb99f
 SHA1: f6045205e3a0d3b276b72c08969b37a996a8279c
 SHA256: 956fefb5abee1310aedffcdad1696fe29af267b513d04869cd748dbb481eb3c0
 Homepage: https://youtube.com/channel/UCoJfejcXCOYuf0zjN0HWbyA
-Description: 
 Name: WASend
 Author: S3UD dx_2e
-Depiction:
-
